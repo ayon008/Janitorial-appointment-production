@@ -16,7 +16,7 @@ export default function Home() {
     return (
         <div>
             {/* Banner */}
-            <Banner />
+            {/* <Banner /> */}
             {/* Section */}
             <div className="max-w-screen-2xl mx-auto md:px-10 px-6">
                 <h5 className="text-secondary nunito text-center font-light text-xl mt-20 mb-4">How We Help You to Grow</h5>
